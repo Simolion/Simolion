@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <a href="https://www.github.com/Simolion" target="_blank">Simolion</a>-
+- 👋 Hi, I’m <a href="https://www.github.com/Simolion" target="_blank">Simolion</a>
 - 👀 I’m interested in Programming Language
 - 🌱 I’m currently learning Rust
 - ⚡ Fun fact: I'm 13
